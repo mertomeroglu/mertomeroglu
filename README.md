@@ -1,4 +1,4 @@
-<a href="https://mertomeroglu.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"><img src="assets/banner-light.svg" alt="Mert Ömeroğlu — Software Developer" width="100%"></picture></a>
+<a href="https://mertomeroglu.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/intro-light.svg"><img src="assets/intro-light.svg" alt="Mert Ömeroğlu — Software Developer" width="100%"></picture></a>
 
 I build **web products**, **mobile apps**, **e-commerce stores** and **custom business software** — from the interface people use to the systems behind it.
 
@@ -6,7 +6,7 @@ I build **web products**, **mobile apps**, **e-commerce stores** and **custom bu
 
 ## Selected work
 
-<a href="https://github.com/mertomeroglu/bubala-kids-showcase"><img src="assets/work/bubala-kids.webp" alt="Bubala Kids: three real mobile app screens with sample data — parent home, digital education program and teacher home" align="left" width="416"></a>
+<a href="https://github.com/mertomeroglu/bubala-kids-showcase"><img src="assets/projects/bubala-kids.webp" alt="Bubala Kids: three real mobile app screens with sample data — parent home, digital education program and teacher home" align="left" width="416"></a>
 
 ### [Bubala Kids](https://github.com/mertomeroglu/bubala-kids-showcase)
 
@@ -18,7 +18,7 @@ Child development platform where parents, teachers and coordinators follow asses
 
 <br clear="left">
 
-<a href="https://github.com/mertomeroglu/gogate-delivery-showcase"><img src="assets/work/gogate.webp" alt="GoGate Delivery: real gogatedelivery.com homepage and the courier app on a test delivery" align="left" width="416"></a>
+<a href="https://github.com/mertomeroglu/gogate-delivery-showcase"><img src="assets/projects/gogate.webp" alt="GoGate Delivery: real gogatedelivery.com homepage and the courier app on a test delivery" align="left" width="416"></a>
 
 ### [GoGate Delivery](https://github.com/mertomeroglu/gogate-delivery-showcase)
 
@@ -30,7 +30,7 @@ Delivery operations for restaurants, hotels and resorts — orders, couriers and
 
 <br clear="left">
 
-<a href="https://github.com/mertomeroglu/tiramisunami-showcase"><img src="assets/work/tiramisunami.webp" alt="Tiramisunami: real desktop and mobile screens of tiramisunami.com" align="left" width="416"></a>
+<a href="https://github.com/mertomeroglu/tiramisunami-showcase"><img src="assets/projects/tiramisunami.webp" alt="Tiramisunami: real desktop and mobile screens of tiramisunami.com" align="left" width="416"></a>
 
 ### [Tiramisunami](https://github.com/mertomeroglu/tiramisunami-showcase)
 
@@ -42,7 +42,7 @@ Artisan tiramisu shop built around menu discovery, custom boxes, chilled deliver
 
 <br clear="left">
 
-<a href="https://github.com/mertomeroglu/acroahsap-showcase"><img src="assets/work/acroahsap.webp" alt="Acro Ahşap: real desktop and mobile screens of acroahsap.com" align="left" width="416"></a>
+<a href="https://github.com/mertomeroglu/acroahsap-showcase"><img src="assets/projects/acroahsap.webp" alt="Acro Ahşap: real desktop and mobile screens of acroahsap.com" align="left" width="416"></a>
 
 ### [Acro Ahşap](https://github.com/mertomeroglu/acroahsap-showcase)
 
