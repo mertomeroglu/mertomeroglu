@@ -1,53 +1,66 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Mert Ömeroğlu — Software Developer" width="100%">
-</p>
+<a href="https://mertomeroglu.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"><img src="assets/banner-light.svg" alt="Mert Ömeroğlu — Software Developer. Web, mobile, e-commerce and business software." width="100%"></picture></a>
 
-I build web products, mobile applications, e-commerce experiences, and custom business software—from customer-facing interfaces to the systems behind them.
+I build web products, mobile applications, e-commerce stores and custom business software — from the interface people use to the systems behind it.
 
-### Working with
-
-<p>
-  <img src="assets/icons/typescript.svg" alt="TypeScript" width="42" height="42">
-  &nbsp;
-  <img src="assets/icons/react.svg" alt="React" width="42" height="42">
-  &nbsp;
-  <img src="assets/icons/nodejs.svg" alt="Node.js" width="42" height="42">
-  &nbsp;
-  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="42" height="42">
-  &nbsp;
-  <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="42" height="42">
-  &nbsp;
-  <img src="assets/icons/docker.svg" alt="Docker" width="42" height="42">
-</p>
+**[mertomeroglu.com](https://mertomeroglu.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mertomeroglu) &nbsp;·&nbsp; [mert@mertomeroglu.com](mailto:mert@mertomeroglu.com)
 
 ### Selected work
 
-<img src="assets/portfolio-01.webp" alt="Selected projects: Exxen House, Tiramisunami, Oriens Academy, ACRO Ahşap, and TSK Sepeti" width="100%">
+<a href="https://github.com/mertomeroglu/bubala-kids-showcase"><img src="assets/work/bubala-kids.webp" alt="Bubala Kids presentation: two mobile screens from the parent app showing digital program progress and a weekly overview" width="100%"></a>
 
-| Project | Focus | Links |
-| --- | --- | --- |
-| **Exxen House** | Furniture commerce | [Showcase](https://github.com/mertomeroglu/exxenhouse-showcase) · [Live](https://exxenhouse.com) |
-| **Tiramisunami** | Artisan food commerce | [Showcase](https://github.com/mertomeroglu/tiramisunami-showcase) · [Live](https://tiramisunami.com) |
-| **Oriens Academy** | Education and consultancy | [Showcase](https://github.com/mertomeroglu/oriens-academy-showcase) · [Live](https://oriens-academy.com) |
-| **ACRO Ahşap** | Interior product catalogue | [Showcase](https://github.com/mertomeroglu/acroahsap-showcase) · [Live](https://acroahsap.com) |
-| **TSK Sepeti** | Outdoor e-commerce | [Showcase](https://github.com/mertomeroglu/tsksepeti-showcase) · [Live](https://tsksepeti.com) |
+**Bubala Kids** — A child development platform where parents, teachers and coordinators follow each child's assessments, goals, sessions and progress reports.<br>
+[Showcase](https://github.com/mertomeroglu/bubala-kids-showcase) &nbsp;·&nbsp; [bubalakidsapp.com](https://bubalakidsapp.com)
 
-<img src="assets/portfolio-02.webp" alt="Selected projects: Waygo Transfer, Aksesuarlia, Teknik İş Kocaeli, Mert Ömeroğlu, and EXXEN B2B" width="100%">
+<a href="https://github.com/mertomeroglu/gogate-delivery-showcase"><img src="assets/work/gogate.webp" alt="GoGate Delivery presentation: courier app screen with an active delivery, navigation and PIN verification" width="100%"></a>
 
-| Project | Focus | Links |
-| --- | --- | --- |
-| **Waygo Transfer** | Mobility platform | [Showcase](https://github.com/mertomeroglu/waygo-transfer-showcase) · [Live](https://waygotransfer.com) |
-| **Aksesuarlia** | Fashion and accessories commerce | [Showcase](https://github.com/mertomeroglu/aksesuarlia-showcase) · [Live](https://aksesuarlia.com) |
-| **Teknik İş Kocaeli** | Local service marketplace | [Showcase](https://github.com/mertomeroglu/teknik-is-kocaeli-showcase) · [Live](https://teknikiskocaeli.com) |
-| **Mert Ömeroğlu** | Developer portfolio | [Showcase](https://github.com/mertomeroglu/mertomeroglu-com-showcase) · [Live](https://mertomeroglu.com) |
-| **EXXEN B2B** | Construction-material B2B | [Showcase](https://github.com/mertomeroglu/exxenb2b-showcase) · [Live](https://exxenb2b.com) |
+**GoGate Delivery** — Delivery operations for restaurants, hotels and resorts — orders, couriers, tasks and collections managed in one flow.<br>
+[Showcase](https://github.com/mertomeroglu/gogate-delivery-showcase) &nbsp;·&nbsp; [gogatedelivery.com](https://gogatedelivery.com)
 
-### Contact
+<a href="https://github.com/mertomeroglu/tiramisunami-showcase"><img src="assets/work/tiramisunami.webp" alt="Tiramisunami presentation: desktop and mobile screens of the live store" width="100%"></a>
 
-[Portfolio](https://mertomeroglu.com) · [LinkedIn](https://www.linkedin.com/in/mertomeroglu/) · [Email](mailto:mertomeroglu7@hotmail.com)
+**Tiramisunami** — An artisan tiramisu shop built around menu discovery, custom boxes, chilled delivery and order tracking.<br>
+[Showcase](https://github.com/mertomeroglu/tiramisunami-showcase) &nbsp;·&nbsp; [tiramisunami.com](https://tiramisunami.com)
 
-<p align="right">
-  <img src="assets/niva-wordmark.png" alt="Niva" width="92">
+<a href="https://github.com/mertomeroglu/acroahsap-showcase"><img src="assets/work/acroahsap.webp" alt="Acro Ahşap presentation: desktop and mobile screens of the live catalogue" width="100%"></a>
+
+**Acro Ahşap** — A visual product catalogue for doors, kitchens, bathrooms, wardrobes and interior living solutions.<br>
+[Showcase](https://github.com/mertomeroglu/acroahsap-showcase) &nbsp;·&nbsp; [acroahsap.com](https://acroahsap.com)
+
+### More projects
+
+**Commerce**
+
+- [Exxen House](https://github.com/mertomeroglu/exxenhouse-showcase) — Furniture store organised by room, collection and category · [exxenhouse.com](https://exxenhouse.com)
+- [Aksesuarlia](https://github.com/mertomeroglu/aksesuarlia-showcase) — Boutique store for leather bags, natural-stone jewellery and accessories · [aksesuarlia.com](https://aksesuarlia.com)
+- [TSK Sepeti](https://github.com/mertomeroglu/tsksepeti-showcase) — Online store for knives, outdoor, camping and security gear · [tsksepeti.com](https://tsksepeti.com)
+
+**Platforms & services**
+
+- [WayGo Transfer](https://github.com/mertomeroglu/waygo-transfer-showcase) — Multilingual fixed-price transfer platform for Antalya · [waygotransfer.com](https://waygotransfer.com)
+- [Exxen B2B](https://github.com/mertomeroglu/exxenb2b-showcase) — B2B platform for construction materials, quotations and delivery in Bulgaria · [exxenb2b.com](https://exxenb2b.com)
+- [Teknik İş Kocaeli](https://github.com/mertomeroglu/teknik-is-kocaeli-showcase) — Service-request platform for local technical work in Kocaeli · [teknikiskocaeli.com](https://teknikiskocaeli.com)
+
+**Education & portfolio**
+
+- [Oriens Academy](https://github.com/mertomeroglu/oriens-academy-showcase) — International exam preparation and academic consultancy · [oriens-academy.com](https://oriens-academy.com)
+- [Mert Ömeroğlu](https://github.com/mertomeroglu/mertomeroglu-com-showcase) — Bilingual developer portfolio · [mertomeroglu.com](https://mertomeroglu.com)
+
+### Stack
+
+<p>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">&nbsp;
+  <img src="assets/icons/react.svg" alt="React" title="React" width="32" height="32">&nbsp;
+  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="32" height="32">&nbsp;
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32">&nbsp;
+  <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32">&nbsp;
+  <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="32" height="32">
 </p>
 
-<sub>Technology icons are sourced from Devicon. See [third-party notices](THIRD_PARTY_NOTICES.md).</sub>
+- **Frontend** — TypeScript, React, Next.js, Tailwind CSS
+- **Mobile** — Capacitor
+- **Backend & data** — Node.js (Express, Fastify), ASP.NET Core, PostgreSQL, Supabase, Redis, Docker
+- **Commerce** — Shopify (Liquid)
+
+---
+
+<sub>Each project links to a presentation-only showcase repository; application source stays private. Icons and fonts: see [third-party notices](THIRD_PARTY_NOTICES.md).</sub>
