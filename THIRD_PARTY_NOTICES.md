@@ -6,4 +6,4 @@ The lettering in `assets/banner-light.svg` and `assets/banner-dark.svg` is drawn
 
 The illustration in the banner is the site icon of [mertomeroglu.com](https://mertomeroglu.com), used with its original proportions.
 
-Project images in `assets/work/` show real product screens; the brands shown remain the property of their respective owners.
+Project images in `assets/work/` are real, unmodified product screens placed in a simple browser or phone frame; the brands shown remain the property of their respective owners.
